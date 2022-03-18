@@ -107,4 +107,3 @@ class TicTacToe:
 
 game = TicTacToe()
 game.host_game("localhost", 8080)
-        
